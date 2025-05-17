@@ -1,0 +1,18 @@
+[submodule "odoo_vnfield"]
+	path = odoo_vnfield
+	url = https://github.com/NietzsLe/odoo_vnfield.git
+[submodule "odoo_vnfield_cs"]
+	path = odoo_vnfield_cs
+	url = https://github.com/NietzsLe/odoo_vnfield_cs.git
+[submodule "odoo_vnfield_is"]
+	path = odoo_vnfield_is
+	url = https://github.com/NietzsLe/odoo_vnfield_is.git
+[submodule "odoo_vnmarket"]
+	path = odoo_vnmarket
+	url = https://github.com/NietzsLe/odoo_vnmarket.git
+[submodule "odoo_vnmarket_cs"]
+	path = odoo_vnmarket_cs
+	url = https://github.com/NietzsLe/odoo_vnmarket_cs.git
+[submodule "odoo_vnmarket_is"]
+	path = odoo_vnmarket_is
+	url = https://github.com/NietzsLe/odoo_vnmarket_is.git
