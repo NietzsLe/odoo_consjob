@@ -19,4 +19,4 @@ Các bản release trên Odoo store cho các module tương ứng:
 - `vnmarket_is`: [vnmarket_is](https://apps.odoo.com/apps/modules/17.0/vnmarket_is)
 
 # Architecture
-![Logo](https://drive.google.com/file/d/1O0O1H1H9KF7XQniFwFhc5DcIhuFs5CvC/view?usp=sharing)
+![image](https://drive.google.com/file/d/1O0O1H1H9KF7XQniFwFhc5DcIhuFs5CvC/view?usp=sharing)
