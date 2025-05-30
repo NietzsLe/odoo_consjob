@@ -18,5 +18,5 @@ Dự án bao gồm 6 submodule chính và có thể chia làm 2 nhóm chức nă
 - `vnfield_cs`: [vnfield_cs](https://apps.odoo.com/apps/modules/17.0/vnfield_cs) [github repo](https://github.com/NietzsLe/odoo_vnfield_cs)
 - `vnfield_is`: [vnfield_is](https://apps.odoo.com/apps/modules/17.0/vnfield_is) [github repo](https://github.com/NietzsLe/odoo_vnfield_is).
 
-[vnfield_is](https://apps.odoo.com/apps/modules/17.0/vnfield_is)
+![vnfield_is](https://github.com/NietzsLe/odoo_consjob/blob/main/docs/architecture.png)
 
