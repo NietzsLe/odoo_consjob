@@ -20,3 +20,5 @@ Dự án bao gồm 6 submodule chính và có thể chia làm 2 nhóm chức nă
 
 ![vnfield_is](https://github.com/NietzsLe/odoo_consjob/blob/main/docs/architecture.png)
 
+![task workflow](https://github.com/NietzsLe/odoo_consjob/blob/main/docs/state-machine.png)
+
